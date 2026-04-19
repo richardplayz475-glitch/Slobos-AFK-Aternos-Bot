@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "BOT21",
-    "type": "offline"
+    "password": "",
+    "type": "online"
   },
   "server": {
-    "ip": "PUTKIS-sLnf.aternos.me:18704",
+    "ip": "PUTKIS-sLnf.aternos.me",
     "port": 18704,
     "version": "",
     "try-creative": false
